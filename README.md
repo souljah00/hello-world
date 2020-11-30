@@ -11,3 +11,5 @@ I love taco Tuesday!.
 This is my second update to Hello world.
 
 I am working with a branch of hello world called my_World. Learning Git is Fun!
+
+These changes are made with git hub desktop. I have now pushed and pull from cmd and from the git hub desktop app. How cool!
