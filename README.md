@@ -8,4 +8,6 @@ I love taco Tuesday!.
 
 //This is my first edit to hello world, i didn't actually change anything, i just need to make a comment to show the difference in branches
 
-This is my second update to Hello world
+This is my second update to Hello world.
+
+I am working with a branch of hello world called my_World. Learning Git is Fun!
